@@ -2,7 +2,7 @@
 
 live url: https://o7lili.github.io/work-day-scheduler-calendar/
 
-github repo: https://github.com/o7lili/work-day-scheduler-calendar 
+github repo: https://github.com/o7lili/work-day-scheduler-calendar
 
 ## Description:
 simple site to jot down events or tasks for the typical work-hour day (9am-5pm). Current date is displayed at the top. Rows for each hour of the work-day to include column/section for time, task input, and save button. After entering a task and hitting the save button, the task will remain on refresh.
